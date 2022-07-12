@@ -61,7 +61,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.mendix.nativetemplate"
+        applicationId "myapp.app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         missingDimensionStrategy "react-native-camera", "general"

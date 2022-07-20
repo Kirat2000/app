@@ -134,7 +134,7 @@
             "enabled": false
         }
     },
-    "appVersion": "0.0.1",
-    "buildNumber": 1,
+    "appVersion": "0.0.2",
+    "buildNumber": 2,
     "runtimeUrl": "http://70.0.0.159:4544"
 }
